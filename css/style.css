@@ -1,0 +1,33 @@
+.banner-img-1 {
+    background: url("../images/carosoul/1.jpg");
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.banner-img-2 {
+    background: url("../images/carosoul/2.jpg");
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.banner-img-3 {
+    background: url("../images/carosoul/3.jpg");
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.banner-img-4 {
+    background: url("../images/carosoul/4.jpg");
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.banner-img-5 {
+    background: url("../images/carosoul/5.jpg");
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.client-image {
+    width: 160px;
+}
